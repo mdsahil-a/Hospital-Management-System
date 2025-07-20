@@ -15,8 +15,8 @@
     --bg-light-blue:#3672BC;
     --bg-dark:#666;
     --bg-white:#fff;
---primary-font:'Roboto Slab', serif;
---secondary-font:'Josefin Sans', serif;
+    --primary-font:'Roboto Slab', serif;
+    --secondary-font:'Josefin Sans', serif;
     --text-white:#fff;
     --text-black:#222;
     --text-gray:#666;
